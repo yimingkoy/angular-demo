@@ -13,7 +13,7 @@ export class InMemoryDataService implements InMemoryDbService {
             { id: 18, name: 'Dr IQ' },
             { id: 19, name: 'Magma' },
             { id: 20, name: 'Tornado' },
-        ]
+        ];
         return {heroes};
     }
 }
